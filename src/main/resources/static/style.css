@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+
+body{background-color:#98FB98;font-family:Comic Sans MS, Comic Sans, cursive;}
+.first{background-color:cyan;font-family:Comic Sans MS, Comic Sans, cursive;}
+.second{background-color:pink;font-family:Comic Sans MS, Comic Sans, cursive;}
+.third{background-color:#F4A460;font-family:Comic Sans MS, Comic Sans, cursive;}
+.buildPizza{background-color:lightyellow;font-family:Comic Sans MS, Comic Sans, cursive;}
+.review{background-color:#BA55D3;font-family:Comic Sans MS, Comic Sans, cursive;}
+
